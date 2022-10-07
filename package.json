@@ -24,7 +24,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.4.2",
     "@uma/common": "^2.21.0",
-    "@uma/contracts-node": "^0.3.8",
+    "@uma/contracts-node": "^0.3.18",
     "@uma/core": "2.29.0"
   },
   "devDependencies": {

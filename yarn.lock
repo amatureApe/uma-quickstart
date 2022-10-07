@@ -2776,10 +2776,10 @@
     web3 "^1.6.0"
     winston "^3.2.1"
 
-"@uma/contracts-node@^0.3.8":
-  version "0.3.8"
-  resolved "https://registry.yarnpkg.com/@uma/contracts-node/-/contracts-node-0.3.8.tgz#93159afd70fd67291c8cd8b6749c7e7d866ea572"
-  integrity sha512-/kiOV1cAALEAtJ/ojxPFlTOreLk9iE3jUerigOGS5tJ99S7P+isM5UpEH0q7A2xjH21MtJTf+Bca8LNMZ20ZTA==
+"@uma/contracts-node@^0.3.18":
+  version "0.3.18"
+  resolved "https://registry.yarnpkg.com/@uma/contracts-node/-/contracts-node-0.3.18.tgz#40e053ff6bc66f7ae7ce6c5d203a3200cf9ed928"
+  integrity sha512-ENFYjvVnyplKZF1G5YxOfpm0Ob1nOKtKcwX+TtfOiQGLNMVed8azV8tTSAWlJG/5SZkekX9Y5xZSP5YfcmMj0A==
 
 "@uma/core@2.29.0":
   version "2.29.0"
